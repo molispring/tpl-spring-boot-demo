@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.core.env.Environment;
 
-@SpringBootApplication(scanBasePackages = "com.yonyou")
+@SpringBootApplication
 @ServletComponentScan
 public class Application{
 	
