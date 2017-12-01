@@ -8,7 +8,7 @@ import com.yonyou.moli.ui.builder.DTOBuilder;
 
 public class MetaTest {
 	public static void main(String[] args) throws ClassNotFoundException, SQLException, IOException {
-    	String file = "com.yonyou.moli.workbench.model.WidgetDO";
+    	String file = "com.yonyou.workbench.model.PersonDO";
 //      String outDir = "D:\\metaData\\code\\molimodel\\src\\test\\";
       String outDir = "D:\\github\\tpl-spring-boot-demo\\src\\main\\java\\";
       

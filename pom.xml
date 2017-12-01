@@ -173,7 +173,7 @@
 			<artifactId>meta-util</artifactId>
 			<version>1.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/lib/iuap-meta-util-0.0.1-SNAPSHOT.jar</systemPath>
+			<systemPath>${basedir}/lib/molimvc-0.0.1-SNAPSHOT.jar</systemPath>
 		</dependency>
 
 	</dependencies>
